@@ -13,6 +13,6 @@
     "ecmaVersion": "latest",
     "sourceType": "module"
   },
-  "plugins": ["@typescript-eslint", "jest"],
+  "plugins": [],
   "rules": {}
 }
