@@ -1,8 +1,7 @@
 {
   "env": {
     "browser": true,
-    "es2021": true,
-    "jest/globals": true
+    "es2021": true
   },
   "extends": [
     "eslint:recommended",
@@ -14,6 +13,6 @@
     "ecmaVersion": "latest",
     "sourceType": "module"
   },
-  "plugins": ["@typescript-eslint", "jest"],
+  "plugins": ["@typescript-eslint"],
   "rules": {}
 }
